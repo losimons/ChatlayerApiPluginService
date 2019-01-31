@@ -1,0 +1,14 @@
+C:\Users\LoreSimons\MicroServ\MicroServ.API\bin\Debug\netcoreapp2.1\MicroServ.API.deps.json
+C:\Users\LoreSimons\MicroServ\MicroServ.API\bin\Debug\netcoreapp2.1\MicroServ.API.runtimeconfig.json
+C:\Users\LoreSimons\MicroServ\MicroServ.API\bin\Debug\netcoreapp2.1\MicroServ.API.runtimeconfig.dev.json
+C:\Users\LoreSimons\MicroServ\MicroServ.API\bin\Debug\netcoreapp2.1\MicroServ.API.dll
+C:\Users\LoreSimons\MicroServ\MicroServ.API\bin\Debug\netcoreapp2.1\MicroServ.API.pdb
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.csprojAssemblyReference.cache
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.csproj.CoreCompileInputs.cache
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.RazorAssemblyInfo.cache
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.RazorAssemblyInfo.cs
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.AssemblyInfoInputs.cache
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.AssemblyInfo.cs
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.RazorTargetAssemblyInfo.cache
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.dll
+C:\Users\LoreSimons\MicroServ\MicroServ.API\obj\Debug\netcoreapp2.1\MicroServ.API.pdb
